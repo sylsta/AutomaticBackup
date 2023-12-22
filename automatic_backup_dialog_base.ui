@@ -33,20 +33,20 @@
     <rect>
      <x>9</x>
      <y>257</y>
-     <width>200</width>
+     <width>331</width>
      <height>20</height>
     </rect>
    </property>
    <property name="minimumSize">
     <size>
-     <width>200</width>
+     <width>331</width>
      <height>20</height>
     </size>
    </property>
    <property name="maximumSize">
     <size>
-     <width>95</width>
-     <height>20</height>
+     <width>16777215</width>
+     <height>16777215</height>
     </size>
    </property>
    <property name="text">
@@ -120,7 +120,7 @@
     <rect>
      <x>9</x>
      <y>19</y>
-     <width>200</width>
+     <width>331</width>
      <height>17</height>
     </rect>
    </property>
@@ -142,20 +142,20 @@
     <rect>
      <x>9</x>
      <y>189</y>
-     <width>250</width>
+     <width>331</width>
      <height>16</height>
     </rect>
    </property>
    <property name="minimumSize">
     <size>
-     <width>250</width>
+     <width>331</width>
      <height>16</height>
     </size>
    </property>
    <property name="maximumSize">
     <size>
-     <width>151</width>
-     <height>16</height>
+     <width>16777215</width>
+     <height>16777215</height>
     </size>
    </property>
    <property name="text">
@@ -192,7 +192,7 @@
     <rect>
      <x>9</x>
      <y>85</y>
-     <width>200</width>
+     <width>331</width>
      <height>17</height>
     </rect>
    </property>
@@ -214,20 +214,20 @@
     <rect>
      <x>9</x>
      <y>118</y>
-     <width>250</width>
+     <width>331</width>
      <height>16</height>
     </rect>
    </property>
    <property name="minimumSize">
     <size>
-     <width>250</width>
+     <width>331</width>
      <height>0</height>
     </size>
    </property>
    <property name="maximumSize">
     <size>
-     <width>142</width>
-     <height>16</height>
+     <width>16777215</width>
+     <height>16777215</height>
     </size>
    </property>
    <property name="text">
@@ -298,7 +298,7 @@
     <rect>
      <x>9</x>
      <y>52</y>
-     <width>250</width>
+     <width>331</width>
      <height>17</height>
     </rect>
    </property>
