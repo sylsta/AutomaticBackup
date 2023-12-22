@@ -6,7 +6,7 @@
 name=Automatic Backup
 qgisMinimumVersion=3.0
 description=Create automatic backup for your project
-version=1.0
+version=1.1
 author=S.Poudroux
 email=sebastien.poudroux@kheper3d.com
 
@@ -20,7 +20,9 @@ repository=https://github.com/Seboon/AutomaticBackup
 
 hasProcessingProvider=no
 # Uncomment the following line and add your changelog:
-# changelog= v1.0 Save backup settings when reopening Qgis
+changelog=  v1.1 GUI fix (larger size for labels)
+            v1.0 Save backup settings when reopening Qgis
+
 
 # Tags are comma separated with spaces allowed
 tags=python, export, backup
